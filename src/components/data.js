@@ -4,7 +4,7 @@ export const projectData = [
 		title: 'Speed Dating - Can You Predict Love?',
 		img: 'images/speed-dating.png',
 		description:
-			'<br>Analysis on a speed dating dataset.  This was a group project with Noelle Matthews and <a href="https://schwartzh2017.github.io/"><u>Haleigh Schwartz</u></a> where we explored the wide world of ' +
+			'<br>Analysis on a speed dating dataset.  This was a group project with Noelle Matthews and <a href="https://schwartzh2017.github.io/" target="_blank"><u>Haleigh Schwartz</u></a> where we explored the wide world of ' +
 			'machine learning algorithms to analyze a speed dating dataset we found on openML.  We used the SKLearn Python library to try ensemble, PCA, random forest, and logistic regression ' +
 			'on the dataset to predict a match between 2 people.  Can you predict love?  Turns out - not so much.',
 		gitHubLink: 'https://github.com/cml-data/505project',
@@ -24,7 +24,7 @@ export const projectData = [
 		title: 'MSDS Capstone 2024',
 		img: 'images/house.png',
 		description:
-			'<br>*In Progress* <br> In this project (a group project with <a href="https://1987jonathan.github.io">Jonathan McGechie</a>), we are exploring the barriers to affordable housing and attempting to answer ' +
+			'<br>*In Progress* <br> In this project (a group project with <a href="https://1987jonathan.github.io" target="_blank"><u>Jonathan McGechie</u></a>), we are exploring the barriers to affordable housing and attempting to answer ' +
 			'the question, "<i>What strategies can balance the growing housing demand with the need for affordable housing in Oregon?</i>".  We will be analysing various ' +
 			'data gathered from sites like the census.gov, huduser.gov, and fred.stlouisfed.org to help elucidate the pressures on housing prices and see where strategies to ' +
 			'alleviate an increasingly unaffordable market fit in.',
