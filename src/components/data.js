@@ -24,7 +24,7 @@ export const projectData = [
 		title: 'MSDS Capstone 2024',
 		img: 'images/house.png',
 		description:
-			'<br>*In Progress* <br> In this project (a group project with Jonathan McGechie), we are exploring the barriers to affordable housing and attempting to answer ' +
+			'<br>*In Progress* <br> In this project (a group project with <a href="https://1987jonathan.github.io">Jonathan McGechie</a>), we are exploring the barriers to affordable housing and attempting to answer ' +
 			'the question, "<i>What strategies can balance the growing housing demand with the need for affordable housing in Oregon?</i>".  We will be analysing various ' +
 			'data gathered from sites like the census.gov, huduser.gov, and fred.stlouisfed.org to help elucidate the pressures on housing prices and see where strategies to ' +
 			'alleviate an increasingly unaffordable market fit in.',
